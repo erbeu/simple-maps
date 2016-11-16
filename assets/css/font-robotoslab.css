@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Roboto Slab';
+  font-weight: 100;
+  font-style: normal;
+  src: url('../fonts/RobotoSlab/Roboto-Slab-100.eot');
+  src: url('../fonts/RobotoSlab/Roboto-Slab-100.eot?#iefix') format('embedded-opentype'),
+       local('Roboto Slab Thin'),
+       local('Roboto-Slab-100'),
+       url('../fonts/RobotoSlab/Roboto-Slab-100.woff2') format('woff2'),
+       url('../fonts/RobotoSlab/Roboto-Slab-100.woff') format('woff'),
+       url('../fonts/RobotoSlab/Roboto-Slab-100.ttf') format('truetype'),
+       url('../fonts/RobotoSlab/Roboto-Slab-100.svg#RobotoSlab') format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../fonts/RobotoSlab/Roboto-Slab-300.eot');
+  src: url('../fonts/RobotoSlab/Roboto-Slab-300.eot?#iefix') format('embedded-opentype'),
+       local('Roboto Slab Light'),
+       local('Roboto-Slab-300'),
+       url('../fonts/RobotoSlab/Roboto-Slab-300.woff2') format('woff2'),
+       url('../fonts/RobotoSlab/Roboto-Slab-300.woff') format('woff'),
+       url('../fonts/RobotoSlab/Roboto-Slab-300.ttf') format('truetype'),
+       url('../fonts/RobotoSlab/Roboto-Slab-300.svg#RobotoSlab') format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/RobotoSlab/Roboto-Slab-regular.eot');
+  src: url('../fonts/RobotoSlab/Roboto-Slab-regular.eot?#iefix') format('embedded-opentype'),
+       local('Roboto Slab Regular'),
+       local('Roboto-Slab-regular'),
+       url('../fonts/RobotoSlab/Roboto-Slab-regular.woff2') format('woff2'),
+       url('../fonts/RobotoSlab/Roboto-Slab-regular.woff') format('woff'),
+       url('../fonts/RobotoSlab/Roboto-Slab-regular.ttf') format('truetype'),
+       url('../fonts/RobotoSlab/Roboto-Slab-regular.svg#RobotoSlab') format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/RobotoSlab/Roboto-Slab-700.eot');
+  src: url('../fonts/RobotoSlab/Roboto-Slab-700.eot?#iefix') format('embedded-opentype'),
+       local('Roboto Slab Bold'),
+       local('Roboto-Slab-700'),
+       url('../fonts/RobotoSlab/Roboto-Slab-700.woff2') format('woff2'),
+       url('../fonts/RobotoSlab/Roboto-Slab-700.woff') format('woff'),
+       url('../fonts/RobotoSlab/Roboto-Slab-700.ttf') format('truetype'),
+       url('../fonts/RobotoSlab/Roboto-Slab-700.svg#RobotoSlab') format('svg');
+}

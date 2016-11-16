@@ -1,0 +1,17 @@
+@import url(font-robotoslab.css);
+
+body {
+    margin: 20px 0 0;
+    background-color: #8F1D21;
+}
+
+.header h1 {
+    font-family: "Roboto Slab";
+    font-size: 32px;
+    color: #fff;
+    margin: 0 0 20px;
+}
+
+div.col-md-3.text-center {
+    padding: 15px;
+}
